@@ -35,11 +35,11 @@ Deploy.
 ### Via VNC
 
 ```
-[Your IP]:5900
+0.0.0.0:5900
 ```
 
 ### Via HTTP
 
 ```
-http://[Your IP]:6080
+0.0.0.0:6080
 ```
